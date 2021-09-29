@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CJCPhD/CJCPhD.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a fourth year Ph.D. Candidate in Economics under the supervision of Martin Burda, Avi Goldfarb, and Yao Luo at the University of Toronto. My primary research interests lie at the intersection of Econometrics, Industrial Organiztion, and Qantitative Marketing. 
 
 ### Markdown
 
