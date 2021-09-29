@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
+## About
 
-I am a fourth year Ph.D. Candidate in Economics under the supervision of Martin Burda, Avi Goldfarb, and Yao Luo at the University of Toronto. My primary research interests lie at the intersection of Econometrics, Industrial Organiztion, and Qantitative Marketing. 
 
 ### Markdown
 
